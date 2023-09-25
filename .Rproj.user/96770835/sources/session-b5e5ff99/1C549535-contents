@@ -1,0 +1,5 @@
+foo <- renv::dependencies() %>% 
+  as_tibble()
+
+foo %>% 
+  filter(str_detect(Package, "equat"))

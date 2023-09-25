@@ -1,0 +1,8 @@
+nopublish/*
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/

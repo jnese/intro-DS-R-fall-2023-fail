@@ -1,0 +1,32 @@
+{
+    "id": "E159719E",
+    "path": "C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R-fall-2023/slides/w1_intro.qmd",
+    "project_path": "slides/w1_intro.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1695409723319.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,36",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "857:1028"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1695414026,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1695414026280,
+    "read_only": false,
+    "read_only_alternatives": []
+}
